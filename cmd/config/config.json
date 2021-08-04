@@ -1,0 +1,9 @@
+{
+  "addr": ":8080",
+  "db_connection": "postgres://postgres:1234@localhost:5432/forRoma_test?sslmode=disable",
+  "jwt_key": "7436763979244226452948404D635166546A576E5A7234753778214125432A462D4A614E645267556B58703273357638792F423F4528472B4B6250655368566D",
+  "redis_config": {
+    "addr": "localhost:6379",
+    "db": 0
+  }
+}
